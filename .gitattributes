@@ -1,0 +1,9 @@
+# This file is used to override language statistics
+docs/*.html linguist-vendored
+go.sum linguist-generated
+*.ts linguist-detectable
+vendor/* linguist-vendored
+
+*.min.js linguist-generated
+*.svg text  
+*.json linguist-detectable=false
